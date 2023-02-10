@@ -1,0 +1,33 @@
+// Shared
+bin/engine.so
+bin/engine_srv.so
+bin/engine.dll
+
+
+// TF2 (App 232250)
+// https://steamdb.info/app/232250/depots/
+//
+tf/bin/server.dll
+tf/bin/server_srv.so
+
+
+// CSGO (App 740)
+// https://steamdb.info/app/740/depots/
+//
+csgo/bin/server.dll
+csgo/bin/server.so
+
+
+// CSS (App 240)
+// https://steamdb.info/app/240/depots/
+//
+cstrike/bin/server.dll
+cstrike/bin/server.so
+
+
+// L4D2 (App 222860)
+// https://steamdb.info/app/222860/depots/
+//
+left4dead2/bin/server.dll
+left4dead2/bin/server.so
+left4dead2/bin/server_srv.so
